@@ -1,3 +1,4 @@
+azure
 Sure, let's break down the process into detailed steps for creating an Azure account, setting up a basic Azure Virtual Machine (VM), and deploying a sample Python script.
 
 Setting up an Azure Account, Launching an Azure VM, and Deploying a Sample Python Script

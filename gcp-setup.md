@@ -1,3 +1,4 @@
+gcp
 Sample Python Script
 Step 1: Creating a GCP Account
 Visit the GCP Website:
